@@ -1,8 +1,7 @@
 streamlit
 pandas
+time
 numpy
 matplotlib
-scikit-learn
-graphviz
 altair
-time
+graphviz
